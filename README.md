@@ -25,18 +25,6 @@ npm run dev
 
 Visit the website at: **[http://localhost:3000](http://localhost:3000)**
 
----
-
-## 🔑 Administrative Credentials
-
-- **Admin Login Portal:** `http://localhost:3000/login`
-- **Email:** `admin@admin.com`
-- **Password:** `<997Sh7c46T%`
-
-*(Pre-authenticated in development mode with seamless toggling between User and Admin views)*
-
----
-
 ## 🧭 Platform Architecture
 
 ### 1. Public User Rewards Portal (`/`)
